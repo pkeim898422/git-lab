@@ -3,7 +3,7 @@ Name:
 
 Class:
     CS2400
-    Section 109
+    Lecture Section 109
 
 GitHub Username:
     pkeim898422
