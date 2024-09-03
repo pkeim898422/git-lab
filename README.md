@@ -1,6 +1,10 @@
 Name:
     Peyton Keimer
 
+Class:
+    CS2400
+    Section 109
+
 GitHub Username:
     pkeim898422
 
